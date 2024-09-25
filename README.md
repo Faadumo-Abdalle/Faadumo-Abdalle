@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Faadumo-Abdalle
 - 👀 I’m interested in anything related to Data Analysis/Data Engineering
 - 🌱 I’m currently finishing a NCFE Certificate in Data course
-- 🌱 I’m currently studying for the Oracle Database SQL Certified Associate
-
+- 🌱 I’m actively looking for a data analytics role and I'm eager to grow my skills
 
 
 <!---
